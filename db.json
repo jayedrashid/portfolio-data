@@ -1,0 +1,159 @@
+{
+    "projects": [
+        {
+            "id": "1",
+            "name": "Bootstrap Gym Website",
+            "desc": "This is a professional gym site built with HTML, CSS, Bootstrap and JavaScript. This is a simple project with Bootstrap components like navbar, slideshow etc. The site is deployed with Netlify.",
+            "tech": [
+                "HTML",
+                " CSS",
+                " Bootstrap",
+                " JavaScript",
+                " Netlify"
+            ],
+            "image": "projectImg1",
+            "projectUrl": "https://jayedrashid-fitness-proj.netlify.app/",
+            "tags": [
+                "dashboard"
+            ]
+        },
+        {
+            "id": "2",
+            "name": "Portfolio Site",
+            "desc": "This is a student's portfolio site built with HTML, CSS and JavaScript. This is a simple project with css timeline, a gallery slideshow with vanilla JavaScript. Here, no additional JS library is used. The site is deployed with Netlify.",
+            "tech": [
+                "HTML",
+                " CSS",
+                " JavaScript",
+                " Netlify"
+            ],
+            "image": "projectImg2",
+            "projectUrl": "https://jayedrashid-portfolio-proj.netlify.app/",
+            "tags": [
+                "portfolio"
+            ]
+        },
+        {
+            "id": "3",
+            "name": "Resume Site",
+            "desc": "This is a professional single page resume site built with HTML, CSS and JavaScript. In this project all the job ready academic degree certification and working skills & experiences are displayed. This single page web project is built with HTML and CSS. The site is deployed with Heroku.",
+            "tech": [
+                "HTML",
+                " CSS",
+                " JavaScript",
+                " Heroku"
+            ],
+            "image": "projectImg3",
+            "projectUrl": "https://jayedrashid-resume-proj.herokuapp.com/",
+            "tags": [
+                "portfolio"
+            ]
+        },
+        {
+            "id": "4",
+            "name": "A Blog Writing Site",
+            "desc": "This is a blog site of technical writings. It is a multi-page Next Js app designed with Tailwind CSS.",
+            "tech": [
+                "Next",
+                " JavaScript",
+                " Tailwind"
+            ],
+            "image": "projectImg4",
+            "projectUrl": "https://www.google.com/",
+            "tags": [
+                "blog"
+            ]
+        },
+        {
+            "id": "5",
+            "name": "Recipe App",
+            "desc": "This is a modern Recipe App with search functionality. This simple project is built with Food Database API called Edamam, where all kinds of delicious food recipes stored along with their nutrition values. This react build site is deployed with Netlify.",
+            "tech": [
+                "React",
+                " JavaScript",
+                " API",
+                " Netlify"
+            ],
+            "image": "projectImg5",
+            "projectUrl": "https://project-my-recipe-app.netlify.app/",
+            "tags": [
+                "dashboard"
+            ]
+        },
+        {
+            "id": "6",
+            "name": "Saving Photo Memories",
+            "desc": "This is a photo uploading site to save as memories. It is a Next Js app designed with Material-UI. Here SQL is used as a relational database.",
+            "tech": [
+                "Next",
+                " SQL",
+                " Material-UI"
+            ],
+            "image": "projectImg6",
+            "projectUrl": "https://www.google.com/",
+            "tags": [
+                "e-commerce"
+            ]
+        }
+    ],
+
+    "skills": [
+        {
+            "name": "Html",
+            "skillImage": "Html"
+        },
+        {
+            "name": "CSS",
+            "skillImage": "Css"
+        },
+        {
+            "name": "JavaScript",
+            "skillImage": "Javascript"
+        },
+        {
+            "name": "TypeScript",
+            "skillImage": "Typescript"
+        },
+        {
+            "name": "React JS",
+            "skillImage": "ReactImg"
+        },
+        {
+            "name": "Next JS",
+            "skillImage": "NextJS"
+        },
+        {
+            "name": "Tailwind",
+            "skillImage": "Tailwind"
+        },
+        {
+            "name": "Github",
+            "skillImage": "Github"
+        },
+        {
+            "name": "Firebase",
+            "skillImage": "Firebase"
+        },
+        {
+            "name": "GraphQL",
+            "skillImage": "GraphQL"
+        },
+        {
+            "name": "Three JS",
+            "skillImage": "Three"
+        },
+        {
+            "name": "Spline",
+            "skillImage": "Spline"
+        },
+        {
+            "name": "Rive",
+            "skillImage": "Rive"
+        },
+        {
+            "name": "Photoshop",
+            "skillImage": "Photoshop"
+        }
+    ]
+}
+
